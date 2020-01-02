@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# Решение целиком взято из разбора ДЗ, своей головы не хватает
 class Tag:
     def __init__(self, tag, is_single=False, klass=None, **kwargs):
         self.tag = tag
